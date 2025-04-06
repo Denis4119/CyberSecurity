@@ -54,3 +54,7 @@ sessions -i 1
 ## Beendet die aktuelle Sitzung
 
 exit
+
+## Passworthashes von Benutzern aus der SAM-Datenbank ausgeben
+
+hashdump
